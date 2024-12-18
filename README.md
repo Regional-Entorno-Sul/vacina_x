@@ -3,4 +3,5 @@ Esse pequeno programa permite visualizar a quantidade de doses de vacinas aplica
 Dessa forma, o "vacina_x" consegue informar a quantidade de doses de vacinas aplicadas distribuidas por mês de notificação, bastando ao usuário informar na linha de comando o código do município para que os dados possam ser processados.  
 
 Dados de vacinação antirrábica processadas no TabWin.  
+  
 ![x](/img/image1.jpg)
