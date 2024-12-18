@@ -4,4 +4,8 @@ Dessa forma, o "vacina_x" consegue informar a quantidade de doses de vacinas apl
 
 Dados de vacinação antirrábica processadas no TabWin.  
   
+![x](/img/image2.jpg)
+
+Os mesmos dados de vacinação antirrábica processados no "vacina_x".
+
 ![x](/img/image1.jpg)
