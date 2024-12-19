@@ -24,3 +24,5 @@ Usar o parametro --total para somar todas as doses de vacinas da base de dados.
 Usar o parametro [codigo do municipio] para calcular as doses de vacinas de um municipio especifico.
 [codigo do municipio] e o codigo IBGE de seis digitos do municipio escolhido.
 ~~~
+  
+  
