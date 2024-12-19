@@ -15,4 +15,13 @@ Os mesmos dados de vacinação antirrábica processados no "vacina_x".
 
 ![x](/img/image1.jpg)  
 
+Sintaxe do executável:  
 
+~~~
+vacina_x.exe --total [código do município]
+
+Usar o parametro --total para somar todas as doses de vacinas da base de dados.
+Usar o parametro [codigo do municipio] para calcular as doses de vacinas de um
+municipio especifico.
+[codigo do municipio] e o codigo IBGE de seis digitos do municipio escolhido.
+~~~
